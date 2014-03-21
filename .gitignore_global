@@ -7,7 +7,6 @@ Icon
 .Spotlight-V100
 .Trashes
 
-
 ## ECLIPSE
 *.pydevproject
 .project
@@ -26,7 +25,6 @@ local.properties
 .externalToolBuilders/
 *.launch
 
-
 ## ANDROID STUDIO
 .idea
 ./workspace.xml
@@ -39,7 +37,6 @@ local.properties
 *.ipr
 *~
 
-
 ## ANDROID
 *.apk
 *.ap_
@@ -51,7 +48,6 @@ gen/
 build/
 local.properties
 proguard/
-
 
 ## XCode
 build/
